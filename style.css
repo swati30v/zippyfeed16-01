@@ -11,13 +11,14 @@ nav {
 }
 .topnav {
     color: #fff;
-    background-color: #783e80;
+    background-color: #000;
     width:100%;
     position: fixed;
     z-index: 10;    
 }
 img.top-images {
-    padding: 0px 0px 0px 27px;
+    padding: 6px 0px 0px 22px;
+    width: 85px;
 }
 p.text-banner-01 {
     text-align: center;
@@ -43,6 +44,8 @@ h2.text-banner-02 {
 ul.top-list {
     list-style: none;
     display: flex;
+    font-weight: bold;
+    margin-top: 5px;
 }
 li.top-type {
     margin: 18px 25px;
