@@ -1,5 +1,6 @@
 
-
+@import url('https://fonts.googleapis.com/css?family=Playfair+Display+SC&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Tangerine&display=swap');
 nav {
     background-image: url(banner-image.png);
     width: 100%;
@@ -20,16 +21,22 @@ img.top-images {
 }
 p.text-banner-01 {
     text-align: center;
-    font-size: 47px;
-    color: #6BE33F;
+    font-size: 38px;
+    color: #4df510;
     font-weight: bold;
     margin: 172px 57px 0px 0px;
+    font-family: 'Playfair Display SC', serif;
 
 }
 h2.text-banner-02 {
     color: #ffff;
     margin: 40px 44px 0px 0px;
     text-align: center;
+    font-family: 'Tangerine', cursive;
+    font-size: 55px;
+}
+.h2, h2 {
+    font-size: 30px;
 }
 
 
